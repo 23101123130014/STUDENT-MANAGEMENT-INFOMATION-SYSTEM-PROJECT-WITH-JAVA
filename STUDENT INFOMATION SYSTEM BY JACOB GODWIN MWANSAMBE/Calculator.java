@@ -6,6 +6,7 @@ public class Calculator {
 
     // Method to perform addition
     public int add() {
+        System.out.println("+++++++++++++++++++++++++++++++++++++");
         System.out.println("The result of addition:");
         return a + b;
        
