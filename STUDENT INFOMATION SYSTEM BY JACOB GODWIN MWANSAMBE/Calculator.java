@@ -8,6 +8,7 @@ public class Calculator {
     public int add() {
         System.out.println("The result of addition:");
         return a + b;
+        
     }
 
     // Method to perform multiplication
