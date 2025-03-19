@@ -11,7 +11,6 @@ public class Calculator {
     }
 
     // Method to perform multiplication
-    public int multiplication() {
     public Double multiplication() {
         System.out.println("The result of multiplication:");
         return a * b;
