@@ -7,6 +7,7 @@ comment2.target=int\ multiplication()
 comment3.params=
 comment3.target=int\ division()
 comment4.params=
+comment4.target=java.lang.Double\ minus()
 comment5.params=args
 comment5.target=void\ main(java.lang.String[])
 numComments=6
