@@ -3,6 +3,7 @@ import java.util.Scanner; // Import Scanner class for user input
 public class Calculator {
     int a; // First number for operations
     int b; // Second number for operations
+    Double a; // First number for operations
     Double b; // Second number for operations
 
     // Method to perform addition
