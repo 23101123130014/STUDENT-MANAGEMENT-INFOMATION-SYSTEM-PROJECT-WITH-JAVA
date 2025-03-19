@@ -1,7 +1,6 @@
 #BlueJ class context
 comment0.target=Calculator
 comment1.params=
-comment1.target=int\ add()
 comment1.target=java.lang.Double\ add()
 comment2.params=
 comment2.target=java.lang.Double\ multiplication()
