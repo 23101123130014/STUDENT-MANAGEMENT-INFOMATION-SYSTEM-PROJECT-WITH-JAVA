@@ -5,7 +5,6 @@ public class Calculator {
     int b; // Second number for operations
 
     // Method to perform addition
-    public int add() {
     public Double add() {
         System.out.println("+++++++++++++++++++++++++++++++++++++");
         System.out.println("The result of addition:");
