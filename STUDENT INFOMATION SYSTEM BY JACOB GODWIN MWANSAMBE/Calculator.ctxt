@@ -6,6 +6,7 @@ comment2.params=
 comment2.target=int\ multiplication()
 comment3.params=
 comment3.target=int\ division()
+comment3.target=java.lang.Double\ division()
 comment4.params=
 comment4.target=java.lang.Double\ minus()
 comment5.params=args
