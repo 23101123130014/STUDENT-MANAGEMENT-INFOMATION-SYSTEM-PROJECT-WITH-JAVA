@@ -12,18 +12,19 @@ public class Calculator {
 
     // Method to perform multiplication
     public int multiplication() {
+    public Double multiplication() {
         System.out.println("The result of multiplication:");
         return a * b;
     }
 
     // Method to perform division
-    public int division() {
+    public Double division() {
         System.out.println("The result of division:");
         return a / b;
     }
 
     // Method to perform subtraction
-    public int minus() {
+    public Double minus() {
         System.out.println("The result of subtraction:");
         return a - b;
     }
@@ -62,14 +63,15 @@ public class Calculator {
 
             // Prompt user for input numbers
             System.out.print("Enter the first number: ");
-            ob.a = ob1.nextInt(); // Store first number
+            ob.a = ob1.nextDouble(); // Store first number
             System.out.print("Enter the second number: ");
-            ob.b = ob1.nextInt(); // Store second number
+            ob.b = ob1.nextDouble(); // Store second number
 
             // Perform operations based on user's choice
             switch (choice) {
                 case 1:
                     System.out.println(ob.add()); // Call addition method
+                    System.out.println("+++++++++++++++++++++++++++++++++++++");
                     break;
                 case 2:
                     System.out.println(ob.multiplication()); // Call multiplication method
