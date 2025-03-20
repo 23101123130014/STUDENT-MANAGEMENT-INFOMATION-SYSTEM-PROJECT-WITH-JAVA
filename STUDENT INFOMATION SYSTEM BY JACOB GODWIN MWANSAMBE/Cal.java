@@ -1,3 +1,4 @@
+                numbers.add(input.nextDouble());
             } else if (input.hasNext("done")) {
                 input.next(); // Consume the "done" input
                 break;
