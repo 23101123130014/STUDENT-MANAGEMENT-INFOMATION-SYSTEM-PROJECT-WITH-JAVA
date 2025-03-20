@@ -1,3 +1,4 @@
+            } else {
                 System.out.println("Invalid input. Please enter a number or 'done'.");
                 input.next(); // Consume invalid input
             }
