@@ -1,4 +1,5 @@
         }
+
         for (double num : numbers) {
             sum += num;
         }
