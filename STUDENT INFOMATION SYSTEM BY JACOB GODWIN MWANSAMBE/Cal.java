@@ -1,3 +1,4 @@
+                input.next(); // Consume invalid input
             }
         }
 
